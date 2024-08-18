@@ -1,26 +1,14 @@
-![alt text](1.gif)
+### Всем салам ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) кто зашел сюда
 
 
- # Всем салам ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) кто зашел сюда
+### 🔥 About Me
 
+Я начинающий разработчик на C++, который только recently начал свой путь в мире программирования в 2021 году.
 
-
-👩‍💻 Обо мне
-
-Привет! Я начинающий разработчик на C++, который только recently начал свой путь в мире программирования в 2021 году. Моя страсть - создавать мощные и эффективные приложения, и я хочу связать свою карьеру с Desktop разработкой или Backend разработкой.
-
-В данный момент я нахожусь на начальном этапе моего пути, но я готов учиться и развиваться, чтобы стать опытным разработчиком. Я открыт для новых знаний, опыта и советов от более опытных коллег.
-
-Моя цель - создавать высококачественные приложения, которые будут полезными и удобными для пользователей. Я готов работать над сложными задачами и преодолевать новые вызовы, чтобы достичь своих целей.
-
-
-### Технологии
-
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://neovim.io/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/neovim.svg" width="36" height="36" alt="Neovim" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-</p>
+![Tech Stack](https://github-readme-tech-stack.vercel.app/api/cards?title=Tech+Stack&fontFamily=Fira+Code&fontSize=14&fontWeight=bold&lineCount=1&hideBg=true&badge=%23272727&border=%23424242&titleColor=%230053ff&line1=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciICB2aWV3Qm94PSIwIDAgNDggNDgiIHdpZHRoPSI0OHB4IiBoZWlnaHQ9IjQ4cHgiIGNsaXAtcnVsZT0iZXZlbm9kZCI%2BPHBhdGggZmlsbD0iIzAwNTQ5ZCIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMjIuOTAzLDMuMjg2YzAuNjc5LTAuMzgxLDEuNTE1LTAuMzgxLDIuMTkzLDAgYzMuMzU1LDEuODgzLDEzLjQ1MSw3LjU1MSwxNi44MDcsOS40MzRDNDIuNTgyLDEzLjEsNDMsMTMuODA0LDQzLDE0LjU2NmMwLDMuNzY2LDAsMTUuMTAxLDAsMTguODY3IGMwLDAuNzYyLTAuNDE4LDEuNDY2LTEuMDk3LDEuODQ3Yy0zLjM1NSwxLjg4My0xMy40NTEsNy41NTEtMTYuODA3LDkuNDM0Yy0wLjY3OSwwLjM4MS0xLjUxNSwwLjM4MS0yLjE5MywwIGMtMy4zNTUtMS44ODMtMTMuNDUxLTcuNTUxLTE2LjgwNy05LjQzNEM1LjQxOCwzNC44OTksNSwzNC4xOTYsNSwzMy40MzRjMC0zLjc2NiwwLTE1LjEwMSwwLTE4Ljg2NyBjMC0wLjc2MiwwLjQxOC0xLjQ2NiwxLjA5Ny0xLjg0N0M5LjQ1MSwxMC44MzcsMTkuNTQ5LDUuMTY5LDIyLjkwMywzLjI4NnoiIGNsaXAtcnVsZT0iZXZlbm9kZCIvPjxwYXRoIGZpbGw9IiMwMDg2ZDQiIGZpbGwtcnVsZT0iZXZlbm9kZCIgZD0iTTUuMzA0LDM0LjQwNEM1LjAzOCwzNC4wNDgsNSwzMy43MSw1LDMzLjI1NSBjMC0zLjc0NCwwLTE1LjAxNCwwLTE4Ljc1OWMwLTAuNzU4LDAuNDE3LTEuNDU4LDEuMDk0LTEuODM2YzMuMzQzLTEuODcyLDEzLjQwNS03LjUwNywxNi43NDgtOS4zOCBjMC42NzctMC4zNzksMS41OTQtMC4zNzEsMi4yNzEsMC4wMDhjMy4zNDMsMS44NzIsMTMuMzcxLDcuNDU5LDE2LjcxNCw5LjMzMWMwLjI3LDAuMTUyLDAuNDc2LDAuMzM1LDAuNjYsMC41NzZMNS4zMDQsMzQuNDA0eiIgY2xpcC1ydWxlPSJldmVub2RkIi8%2BPHBhdGggZmlsbD0iI2ZmZiIgZmlsbC1ydWxlPSJldmVub2RkIiBkPSJNMjQsMTBjNy43MjcsMCwxNCw2LjI3MywxNCwxNHMtNi4yNzMsMTQtMTQsMTQgcy0xNC02LjI3My0xNC0xNFMxNi4yNzMsMTAsMjQsMTB6IE0yNCwxN2MzLjg2MywwLDcsMy4xMzYsNyw3YzAsMy44NjMtMy4xMzcsNy03LDdzLTctMy4xMzctNy03QzE3LDIwLjEzNiwyMC4xMzYsMTcsMjQsMTd6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSIjMDA3NWMwIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik00Mi40ODUsMTMuMjA1YzAuNTE2LDAuNDgzLDAuNTA2LDEuMjExLDAuNTA2LDEuNzg0IGMwLDMuNzk1LTAuMDMyLDE0LjU4OSwwLjAwOSwxOC4zODRjMC4wMDQsMC4zOTYtMC4xMjcsMC44MTMtMC4zMjMsMS4xMjdMMjMuNTkzLDI0TDQyLjQ4NSwxMy4yMDV6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSIjZmZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0zMSAyMUgzM1YyN0gzMXpNMzggMjFINDBWMjdIMzh6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48cGF0aCBmaWxsPSIjZmZmIiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGQ9Ik0yOSAyM0gzNVYyNUgyOXpNMzYgMjNINDJWMjVIMzZ6IiBjbGlwLXJ1bGU9ImV2ZW5vZGQiLz48L3N2Zz4%3D%2CC%2B%2B%2C%3B)
 
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Persik1s&show_icons=true&theme=dracula)
+### ⚡ Status
+![GitHub Streak](https://streak-stats.demolab.com?user=Persik1s&theme=transparent&hide_border=true&border_radius=5&card_width=570&card_height=200)
